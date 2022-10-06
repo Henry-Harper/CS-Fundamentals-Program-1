@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS_Fundamentals_Program_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS_Fundamentals_Program_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS_Fundamentals_Program_1-Debug-eda382078c606b37f0d6.json",
+					"name" : "CS_Fundamentals_Program_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hhmas/OneDrive/Documents/GitHub/CS-Fundamentals-Program-1/cmake-build-debug",
+		"source" : "C:/Users/hhmas/OneDrive/Documents/GitHub/CS-Fundamentals-Program-1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
